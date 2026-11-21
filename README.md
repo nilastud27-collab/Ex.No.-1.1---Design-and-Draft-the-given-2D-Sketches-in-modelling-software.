@@ -1,5 +1,7 @@
 Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+## DATE: 05.10.2026
+
 ## AIM
   To create a fully constrained 2D sketch of the given mechanical component 
 using Autodesk Fusion 360 by applying the specified dimensions, geometric 
